@@ -1,6 +1,6 @@
-    var Basic = Basic || {};
+    var Light = Light || {};
 
-    Basic.redirectToLink = function(linkType) {
+    Light.redirectToLink = function(linkType) {
       var baseUrl = 'https://github.com/Wheelman-v2/Ownglyph3/raw/main';
       var specificPaths = {
         '온글잎_셈글': 'LIGHT8/Files/온글잎_셈글.zip',
